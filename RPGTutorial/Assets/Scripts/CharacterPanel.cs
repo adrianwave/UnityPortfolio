@@ -4,10 +4,16 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class CharacterPanel : MonoBehaviour {
-	
-	[SerializeField] private Text health, level;
+
+    // Character Panel On/Off
+
+    public GameObject characterPanel;
+    bool menuIsActive { get; set; }
+
+    [SerializeField] private Text health, level;
 	[SerializeField] private Image healthFill, levelFill;
 	[SerializeField] private Player player;
+
 
 	// Stats
 	private List<Text> playerStatTexts = new List<Text>();
@@ -32,13 +38,24 @@ public class CharacterPanel : MonoBehaviour {
 		UIEventHandler.OnPlayerLevelChange += UpdateLevel;
 		InitializeStats();
 
-	}
+    }
 
 	void Update()
 	{
-		if (Input.GetKeyDown(KeyCode.C))
-			
-	}
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            menuIsActive = !menuIsActive;
+
+            //Hide character menu
+            if (menuIsActive)
+                GameObject.Find(characterPanel.name).transform.localScale = new Vector3(0, 0, 0);
+            // Show character menu
+            else
+                GameObject.Find(characterPanel.name).transform.localScale = new Vector3(1, 1, 1);
+        }
+
+
+    }
 
 	void UpdateHealth(int currentHealth, int maxHealth)
 	{

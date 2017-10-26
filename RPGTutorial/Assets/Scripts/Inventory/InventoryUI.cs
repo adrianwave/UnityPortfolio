@@ -10,7 +10,8 @@ public class InventoryUI : MonoBehaviour {
 	bool menuIsActive { get; set; }
 	Item currentSelectedItem {get; set; }
 
-	void Start() {
+	void Start()
+    {
 		itemContainer = Resources.Load<InventoryUIItem>("UI/Item_Container");
 		UIEventHandler.OnItemAddedToInventory += ItemAdded;
 		inventoryPanel.gameObject.SetActive(false);
