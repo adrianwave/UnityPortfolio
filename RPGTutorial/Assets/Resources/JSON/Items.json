@@ -1,0 +1,60 @@
+﻿[
+  {
+    "objectSlug": "sword",
+    "itemName": "Sword",
+    "description": "A long, sharp blade.",
+    "itemType":  "Weapon",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "Stats": [
+      {
+        "StatType":  "Power",
+        "BaseValue": 2,
+        "StatName": "Power"
+      },
+      {
+        "StatType": "Toughness",
+        "BaseValue": 4,
+        "StatName": "Toughness"
+      },
+      {
+        "StatType":  "AttackSpeed",
+        "BaseValue": 5,
+        "StatName": "Atk Spd"
+      }
+    ]
+  },
+  {
+    "objectSlug": "staff",
+    "itemName": "Staff",
+    "description": "A staff, given by the Great Merlin.",
+    "itemType":  "Weapon",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "Stats": [
+      {
+        "StatType":  "Power",
+        "BaseValue": 3,
+        "StatName": "Power"
+      },
+      {
+        "StatType": "Toughness",
+        "BaseValue": 4,
+        "StatName": "Toughness"
+      },
+      {
+        "StatType":  "AttackSpeed",
+        "BaseValue": 1,
+        "StatName": "Atk Spd"
+      }
+    ]
+  },
+  {
+    "objectSlug": "potion_log",
+    "itemName": "Log Potion",
+    "description": "A potion that logs something to the console.",
+    "itemType": "Consumable",
+    "actionName": "Drink",
+    "itemModifier": 0
+  }
+]
