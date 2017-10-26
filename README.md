@@ -1,4 +1,6 @@
 # UnityPortfolio
-A repository for my Unity Portfolio
+A repository for my Unity Portfolio.
 
-This branch is dedicated to my Unity Portfolio. I will be gradually pushing anything I deem worthy for interested parties.
+This repository is dedicated to my Unity Portfolio. I will be gradually pushing anything I deem worthy for the eyes of those interested parties.
+
+Thanks for your visitation.
