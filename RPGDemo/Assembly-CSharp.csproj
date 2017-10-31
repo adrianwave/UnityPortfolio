@@ -52,12 +52,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\_CUSTOM\MedievalTownExteriors\Scripts\ProtectCameraFromWallClip.cs" />
+     <Compile Include="Assets\FollowTarget.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <None Include="Assets\_CUSTOM\Cartoon lowpoly water well\readme.txt" />
      <None Include="Assets\_CUSTOM\Baker House\Readme.txt" />
      <None Include="Assets\_CUSTOM\MedievalTownExteriors\Readme.txt" />
+     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/M04776/Documents/RPGDemo/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/M04776/Documents/UnityPortfolio/RPGDemo/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
