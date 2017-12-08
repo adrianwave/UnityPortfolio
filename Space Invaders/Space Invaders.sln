@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Invaders", "Assembly-CSharp.csproj", "{A524842E-E68A-E4C1-63C8-71D08EF500FA}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Invaders", "Space Invaders.csproj", "{B7F9CA01-4E91-5EB7-E038-7805F88F4391}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A524842E-E68A-E4C1-63C8-71D08EF500FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A524842E-E68A-E4C1-63C8-71D08EF500FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A524842E-E68A-E4C1-63C8-71D08EF500FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A524842E-E68A-E4C1-63C8-71D08EF500FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F9CA01-4E91-5EB7-E038-7805F88F4391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F9CA01-4E91-5EB7-E038-7805F88F4391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F9CA01-4E91-5EB7-E038-7805F88F4391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F9CA01-4E91-5EB7-E038-7805F88F4391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

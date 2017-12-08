@@ -52,7 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\_CUSTOM\MedievalTownExteriors\Scripts\ProtectCameraFromWallClip.cs" />
-     <Compile Include="Assets\FollowTarget.cs" />
+     <Compile Include="Assets\Scripts\FollowTarget.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <None Include="Assets\_CUSTOM\Cartoon lowpoly water well\readme.txt" />
      <None Include="Assets\_CUSTOM\Baker House\Readme.txt" />
