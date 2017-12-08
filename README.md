@@ -1,8 +1,8 @@
 # UnityPortfolio
 A repository for my Unity Portfolio.
 
-This repository is dedicated to my Unity Portfolio. I will be gradually pushing anything I deem worthy for the eyes of those interested parties.
+This repository is dedicated to my Unity Portfolio. I will be gradually pushing anything I deem worthy for the eyes of those interested.
 
-I recommend looking at the "RPGTutorial" or the "ActionRPGTutorial" source as those are the projects I spent most of my time on currently; I feel that they show my knowledge on C# and Unity the most.
+Take a look at the Project Images folder for the kind of content I have produced over my time in learning Unity.
 
-Thanks for your visitation.
+Thanks for your visit.
