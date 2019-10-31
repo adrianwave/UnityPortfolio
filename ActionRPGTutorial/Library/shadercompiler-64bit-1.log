@@ -1,0 +1,100 @@
+Base path: D:/Unity_502/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-22820
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2167 outsize=751 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): unrecognized identifier 'UNITY_VERTEX_INPUT_INSTANCE_ID'\nCompiling Vertex program with DUMMY
+  api=4 type=0 insize=1715 outsize=0 kw=DUMMY ok=0
+Cmd: preprocess
+  insize=2870 outsize=882 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (43): unrecognized identifier 'UNITY_VERTEX_INPUT_INSTANCE_ID'\nCompiling Vertex program with DUMMY
+  api=4 type=0 insize=2287 outsize=0 kw=DUMMY ok=0
+Cmd: preprocess
+  insize=2351 outsize=809 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (42): unrecognized identifier 'UNITY_VERTEX_INPUT_INSTANCE_ID'\nCompiling Vertex program with DUMMY
+  api=4 type=0 insize=1841 outsize=0 kw=DUMMY ok=0
+Cmd: preprocess
+  insize=1536 outsize=1874 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=30000 outsize=3809 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=30000 outsize=1510 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=17216 outsize=2899 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=17216 outsize=2143 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=15432 outsize=2899 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=15432 outsize=1152 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=26562 outsize=4223 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=26562 outsize=1558 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=26910 outsize=3947 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=26910 outsize=1843 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=15524 outsize=2631 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=15524 outsize=1510 kw= ok=1
+Cmd: preprocess
+  insize=2529 outsize=886 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): unrecognized identifier 'UNITY_VERTEX_INPUT_INSTANCE_ID'\nCompiling Vertex program with DUMMY
+  api=4 type=0 insize=1942 outsize=0 kw=DUMMY ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (44): Syntax error
+  insize=1852 outsize=765 ok=0
+Cmd: preprocess
+  insize=1969 outsize=743 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1525 outsize=1575 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1525 outsize=754 kw=DUMMY ok=1
+Cmd: preprocess
+  insize=1539 outsize=634 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1204 outsize=1575 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1204 outsize=917 kw=DUMMY ok=1
+Cmd: preprocess
+  insize=2492 outsize=816 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1975 outsize=1575 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1975 outsize=1185 kw=DUMMY ok=1
+Cmd: preprocess
+  insize=1810 outsize=682 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1427 outsize=1575 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1427 outsize=1185 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1204 outsize=2005 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1204 outsize=917 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=17216 outsize=2899 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=17216 outsize=1363 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3517 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=364 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3963 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10545 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4020 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5499 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9591 outsize=10342 kw=UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9591 outsize=2623 kw=UNITY_COLORSPACE_GAMMA ok=1
